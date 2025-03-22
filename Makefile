@@ -3,7 +3,7 @@ CFLAGS=-o main.out
 
 all:
 	@echo "Build..."
-	@$(C) $(CFLAGS) main.c
+	@$(C) $(CFLAGS) src/main.c
 
 clean:
 	@echo "Clean..."
