@@ -1,2 +1,5 @@
 # NaVi
- "NaVi — edit simple. The NaGNU way." - said some kind of mysterious faggot
+```
+NaVi — part of the NaGNU project and the best editor for your NaGNU/Linux system.
+No noise, no unnecessary dependencies — just text, control, and simplicity. Exactly the way it should be in NaGNU.
+```
