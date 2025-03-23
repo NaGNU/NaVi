@@ -1,4 +1,4 @@
-/* navi.c  - maksim yarorvoy 22.03.25 */
+/* navi.c  - maksim yarovoy 22.03.25 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
